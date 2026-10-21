@@ -1,0 +1,1 @@
+Aquest fiter simula que algú canvia el repositori de git i tinc que descarregar les dades noves.
